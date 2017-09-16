@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我 
+title: 关于我 ：
 ---
     ChinaH.L.B战队WEB狗！
 ---
