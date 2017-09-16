@@ -1,21 +1,21 @@
 ---
 layout: post
 title: "Hello World!"
-date: 2017-05-19
+date: 2017-09-16
 description: "博客搭建过程"
 tag: My Blog
 ---
 
 ## 题记
-  纪念本博客的成立，从typecho站的莫名服务器抽疯，到WordPress站要求备案，再到本站的搭建，中间过程中发生了各种各样灾难。（满满的泪水T-T）
+  纪念本博客的成立（满满的泪水T-T）
 
 ### 提前声明
-  前几天TX发邮件通知，需要对网站进行备案才能继续使用，懒癌晚期的我完全没有备案的动力，只好另选一个平台搭建我新的博客。听朋友说github可以免费搭建，而且没有流量限制，立马把博客搬到这里来了。<br>
+  搭建博客主要是为了学习，也方便自己做笔记。<br>听朋友说github可以免费搭建，而且没有流量限制，也比较安全，所以就在这里安家了。<br>
   经过度娘的反复搜索，我发现大致使用的方法分为Hexo、Jekyll等，基本思路就是本地搭建然后上传到你的个人仓库中，本文对两种方法进行简单的介绍。
 
 ## 搭建前提
   一个Github账号是你必须拥有的（用我的平台还想不注册，给你一个眼神自行体会），下面我来介绍一下Github的注册姿势。打开官网[Github](https://github.com)就会出现你需要的注册页面Username，Email，Password。（记住自己的Username很重要！）<br>
-  进入之后选择右上角 [Create a new repository](github.com/new),Repository name填上自己的名字yourname.github.io(yourname与你的注册用户名一致，这个就是你博客的域名了)例如，我的名字是KamiSec，就填入KamiSec.github.io。
+  进入之后选择右上角 [Create a new repository](github.com/new),Repository name填上自己的名字yourname.github.io(yourname与你的注册用户名一致，这个就是你博客的域名了)例如，我的名字是Iewoaix8736，就填入Iewoaix8736.github.io。
 
 # Hexo篇
   ~使用系统：windows 7 64位，编译器：sublime text3(第一次尝试使用的是windows系统，linux系统和mac系统搭建过程差不多，详细问度娘吧)
