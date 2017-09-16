@@ -175,13 +175,13 @@ npm install hexo-deployer-git --save
 
 ### 博客部署
   注册一个github账号，我在这里遇到了很多坑，第一个要安装jeklly,安装完之后，导入其它人的博客，发现各种版本问题，各种版本不兼容。这里教给大家一个简答的方法，直接去[jekyll主题站](http://jekyllthemes.org/)找一个自己喜欢的主题，点进去之后，点"homepage"进入之后你会发现是一个github项目，然后直接点屏幕右上角的"forks".<br>
-  这时候回到自己的github仓库，你会发现你拥有了一个一模一样的项目。进入项目后，点击项目的"Setting",将名字改成自己的用户名，格式：KamiSec.github.io<br>
+  这时候回到自己的github仓库，你会发现你拥有了一个一模一样的项目。进入项目后，点击项目的"Setting",将名字改成自己的用户名，格式：Iewoaix8736.github.io<br>
   这时候，github就会自动为你分配一个博客域名,bsmali4.github.io。访问就会出现你的博客，和你fork过来的内容一模一样，包括文章内容和模版。这里只能是你的用户名＋github.io。默认一个用户只能有一个github博客，除非你充钱变强。(少年，想想吧，不充钱你会变强？)<br>
   看到自己艰难的用自己的github搭了一个别人的网站，想想是不是很气啊。没关系，可以让他变成自己的啊。(面包会有的，牛奶也会有的...)
 
  clone项目到本地 直接git clone你的项目到本地：
 ```
-git clone https://github.com/KamiSec/KamiSec.github.io.git
+git clone https://github.com/Iewoaix8736/Iewoaix8736.github.io.git
 ```
 
 把仓库克隆到本地，想怎么改还不是你说了算。进入项目目录，找到_config.yml,改成自己的内容，然后push上去就行了
@@ -192,7 +192,7 @@ git clone https://github.com/KamiSec/KamiSec.github.io.git
 git init
 git add .
 git commit -m "change"
-git remote add origin https://github.com/KamiSec/KamiSec.github.io.git
+git remote add origin https://github.com/Iewoaix8736/Iewoaix8736.github.io.git
 git push origin master
 ```
 
@@ -204,7 +204,7 @@ rm之后，再重新执行一下第四条命令，然后继续向下执行第五
 
 windows版本中push时可能遇到如下错误
 ```
-error: failed to push some refs to 'https://github.com/KamiSec/KamiSec.github.io
+error: failed to push some refs to 'https://github.com/Iewoaix8736/Iewoaix8736.github.io
 .git'
 hint: Updates were rejected because the remote contains work that you do
 hint: not have locally. This is usually caused by another repository pushing
