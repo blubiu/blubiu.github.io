@@ -217,3 +217,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 git pull --rebase origin master
 ```
+然后重新git push origin master上传就行了
