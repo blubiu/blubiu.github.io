@@ -5,7 +5,7 @@ title: 友情链接
 
 [kami](https://kamisec.github.io/)<br>
 [胖虎](http://www.cnblogs.com/test404)<br>
-[Mochazz](https://mochazz.github.io/)<br>
+[Mochazz](https://mochazz.oschina.io/)<br>
 [SecWiki](https://www.sec-wiki.com/)<br>
 [少宇](https://www.90xss.cn)<br>
 [BetaMao](https://betamao.me)<br>
