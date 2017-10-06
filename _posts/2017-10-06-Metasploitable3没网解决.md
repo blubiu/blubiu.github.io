@@ -66,3 +66,9 @@ Metasploitable3目前普遍安装在VirtualBox虚拟机，<br/>
 **为学习打卡吧，虽然是小问题，**<br/>
 **好记性不如烂笔头，**<br/>
 **继续努力吧骚年！**
+**Metasploitable3下载链接(其他表哥在FreeBuf上的分享)**
+**链接: http://pan.baidu.com/s/1c1RTEN2 密码: 4ctm**
+**(PS:合并命令去掉后面f即可)**
+```
+cat metasploitablea* | tar xjv
+```
