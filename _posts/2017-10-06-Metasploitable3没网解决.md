@@ -31,7 +31,7 @@ Metasploitable3目前普遍安装在VirtualBox虚拟机，<br/>
 ### 第二步
 **接着在选项里面，在客户机操作系统里面，选择Microsoft Windwos(W)，**<br/>
 
-<center>**版本选择Windows Server 2008 R2 x64**</center >
+**版本选择Windows Server 2008 R2 x64**
 
 ![images](/images/2017-10-06/met2.png)
 
