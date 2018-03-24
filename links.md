@@ -3,7 +3,7 @@ layout: page
 title: 友情链接
 ---
 
-[klion'blog](https://klionsec.github.io/)<br>
+[klion](https://klionsec.github.io/)<br>
 [kami](https://kamisec.github.io/)<br>
 [胖虎](http://www.cnblogs.com/test404)<br>
 [Mochazz](https://mochazz.oschina.io/)<br>
