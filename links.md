@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 友情链接
+title: The Friends
 ---
 
 [klion](https://klionsec.github.io/)<br>
