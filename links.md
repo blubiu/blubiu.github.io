@@ -10,7 +10,6 @@ title: The Friends
 <a href="https://mochazz.oschina.io/" target="_blank">Mochazz</a><br>
 <a href="https://xnianq.cn/" target="_blank">xnianq</a><br>
 <a href="http://www.cnblogs.com/ssooking/" target="_blank">ssooking</a><br>
-<a href="http://www.cnblogs.com/pcat/" target="_blank">pcat</a><br>
 
 龟速成长ing...
 
