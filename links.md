@@ -13,7 +13,7 @@ title: The Friends
 [pcat](http://www.cnblogs.com/pcat/)(http://www.cnblogs.com/pcat/?_blank)<br>
 [ssooking](http://www.cnblogs.com/ssooking/)(http://www.cnblogs.com/ssooking/?_blank)<br>
 
-<a href="https://klionsec.github.io/">klion</a>{:target="_blank"}
+<a href="https://klionsec.github.io/" target="_blank">klion</a>
 
 龟速成长ing...
 
