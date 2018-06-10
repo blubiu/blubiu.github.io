@@ -2,8 +2,8 @@
 layout: post
 title: "从VBox虚拟机移植Metasploitable3到VM虚拟机没网问题"
 date: 2017-10-06
-description: "Metasploitable3没网解决"
-tag: Metasploitable3
+description: "Metasploitable3"
+tag: Web安全
 ---
 
 
