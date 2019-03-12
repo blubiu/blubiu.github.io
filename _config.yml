@@ -53,7 +53,7 @@ nav:
     - {title: Archive, description: archive, url: '/archive'}   
     - {title: Tage, description: tags, url: '/tags'}      
     - {title: About me, description: about, url: '/about'}
-    - {title: Friend, description: archive, url: '/links'}  
+    - {title: Friends, description: archive, url: '/links'}  
     
 
 # Pagination
