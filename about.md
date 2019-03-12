@@ -1,4 +1,6 @@
 ---
+layout: page
+title: 关于我:
 
     介绍：一只小白<br>
     职位：Web Dog<br>
