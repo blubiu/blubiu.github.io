@@ -47,14 +47,14 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: blubiu'Blogs 
+    title: blubiu 
 
 # Navigation buttons in the front page.s
 nav:
     - {title: Archive, description: archive, url: '/archive'}   
     - {title: Tage, description: tags, url: '/tags'}      
     - {title: About me, description: about, url: '/about'}
-    - {title: Friendship link, description: archive, url: '/links'}  
+    - {title: Friend, description: archive, url: '/links'}  
     
 
 # Pagination
