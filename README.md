@@ -1,1 +1,1 @@
-While there is life there is hope. 
+上网不网恋，简直浪费电. 
