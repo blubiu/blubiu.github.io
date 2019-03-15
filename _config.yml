@@ -41,6 +41,12 @@ permalink: /:year/:month/:title/
 # Format
 highlighter: rouge
 
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: true
+  tab_replace:
+
 supported colors: blue, green, purple, red, orange or slate.
 cover_color: clear
 
