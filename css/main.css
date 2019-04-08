@@ -119,10 +119,10 @@ h2 {
 }
 
 h3 {
-  font-size: 1.2em; 
+  font-size: 1.5em; 
   text-indent: 4px; 
-  border-radius: 4px; 
-  padding: 6px 15px;
+  border-radius: 12px; 
+  padding: 10px 15px;
   margin-bottom: 20px;
   margin-top: 5px;
   background:#B9D3EE;
@@ -202,7 +202,9 @@ pre {
   font-size: .9em;
   font-weight: normal;
   line-height: 1.3em;
-  overflow: scroll; }
+  overflow: scroll;
+}
+
 pre code {
   padding: 0;
   background: none;
