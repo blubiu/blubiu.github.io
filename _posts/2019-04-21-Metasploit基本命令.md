@@ -40,6 +40,7 @@ Kali 2017
 
 ### <span id = "one">1. 开启控制台</span>
 
+命令：
 ```bash
 msfconsole
 ```
@@ -119,7 +120,7 @@ set RHOSTS 192.168.1.2  # 目标IP地址
 set RPORT 445  # 目标I端口
 ```
 
-如果不设置端口，默认为 **445**
+如果不设置端口，默认为 **445** <br>
 
 ![images](/images/2019-04-21/msf06.png)
 
@@ -133,7 +134,7 @@ set RPORT 445  # 目标I端口
 exploit
 ```
 
-设置完成后就可以进攻了
+设置完成后就可以 **exploit** 了
 
 ---------
 
