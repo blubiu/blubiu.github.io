@@ -54,7 +54,7 @@ msfconsole
 
 命令：
 ```bash
-seach ms17-010  # 模块名
+search ms17-010  # 模块名
 ```
 
 这里以搜索 **ms17-010** 为例，<br>
