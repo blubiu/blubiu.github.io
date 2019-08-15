@@ -58,7 +58,7 @@ import re
 
 url = "https://blog.csdn.net/nav/python"
 
-data = urllib.request.urlopen().read().decode("utf-8","ignore")
+data = urllib.request.urlopen().read().decode("utf-8","ignore")  #  ignore 的意思是如果编码出错也强行编码
 
 path = '{"mod":"popu_459","dest":"(.*?)",'
 
