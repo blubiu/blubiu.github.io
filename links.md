@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Friends
+title: My Friends
 ---
 
 <a href="https://daybr4ak.github.io/" target="_blank">Daybreak</a><br>
